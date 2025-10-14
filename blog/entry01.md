@@ -7,6 +7,11 @@ The purpose for me picking the topic of medicinal chemistry is because in my lif
 
 My backup options if I did not choose medicinal chemistry is photography or fashion because I find dressing in certain styles amazing and cool.
 
+## Sources
+This is the website that involved me researching [chemistry](https://www.sciencedirect.com/topics/social-sciences/chemical-technology). The website is about different types of research in chemistry, and has useful information containing drug research aswell, which is what my topic is.
+
+The other 
+
 [Next](entry02.md)
 
 [Home](../README.md)
