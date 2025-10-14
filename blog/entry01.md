@@ -10,7 +10,7 @@ My backup options if I did not choose medicinal chemistry is photography or fash
 ## Sources
 This is the website that involved me researching [chemistry](https://www.sciencedirect.com/topics/social-sciences/chemical-technology). The website is about different types of research in chemistry, and has useful information containing drug research aswell, which is what my topic is.
 
-The other 
+The other sources are about my latter topics, which is [photography](https://www.naturephotographers.network/articles/) and [fashion](https://www.voguebusiness.com/). The photography website contains the elements of what photograhy is, highlighting the fun components of photography which got me interested in the topic. The fashion website is a magazine, which I find intriguing and the reason why I brought up fashion in my topics of interest.
 
 [Next](entry02.md)
 
