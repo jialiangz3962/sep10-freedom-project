@@ -12,6 +12,14 @@ This is the website that involved me researching [chemistry](https://www.science
 
 The other sources are about my latter topics, which is [photography](https://www.naturephotographers.network/articles/) and [fashion](https://www.voguebusiness.com/). The photography website contains the elements of what photograhy is, highlighting the fun components of photography which got me interested in the topic. The fashion website is a magazine, which I find intriguing and the reason why I brought up fashion in my topics of interest.
 
+## Engineering Design Process (EDP)
+
+Currently, I am on steps 1, 2, and 3 on the engineering design process. It is listed on the student's page that step 1 is to define the problem, which is the time consuming process of drug discovery along with the precision and accuracy for the properties of drugs. Step 2 is to research the problem, in which I have scavenged through websites in attempts to find the most frequent issues that associate medicinal chemistry with technology, which is the accuracy of the drug. On step 3, brainstorming solutions is to create a website that has details and processes that includes accuracy on drug predictions and possibly a solution to make other drugs for medicinal purposes.
+
+## Skills 
+
+The skills that have reflected upon me in this blog entry is the process in researching topics and how to work in increments instead of doing everything in one sitting. Over the days that this assignment was posted, I had been thinking about the process on how to work on this. On the first day, I had thought there wasn't much to worry about, but on the second day, I realized that researching topics were not as easy as I had thought. This led me to work on the skill of working in increments, as this assingment was due in later dates. Researching topics came easy, as all I had to do was go through articles about my topic and define the issue in which my topic is involved with technology. Overall, my skills in the fields of researching and learning how to work in increments of time had improved due to this assignment of my first blog entry.
+
 [Next](entry02.md)
 
 [Home](../README.md)
