@@ -13,7 +13,14 @@ Topic: **Medicinal Chemistry**
   * PolyPharma does not require an internet connection, easily accessible.
   * The app features powerful graphical module able to generate colour-coded heatmaps, and structure overlays for correlating structure regions with activity or inertness.
   * Compatible with iPhone, iPad, and iPod touch and requires iOS 9.2 or later.
-   <img alt="PolyPharma App Photo" src="https://github.com/user-attachments/assets/64832c19-1de3-448c-93bc-9bff10f72cc8">  
+   <img alt="PolyPharma App Photo" src="https://github.com/user-attachments/assets/64832c19-1de3-448c-93bc-9bff10f72cc8">
+* The second app I reviewed was **_ReactionFlash_**
+  * This free app is a suitable way to spend time during travel or waiting in a queue refreshing memory on named chemical reactions and their mechanisms.
+  * It is an educational app about medicinal chemistry
+  * It can be used as a learning tool and a reference.
+  * The app is available on Android, iPhone, iPad, and iPod Touch, it requires iOS 8.0 or later.
+  * <img alt="ReactionFlash App Photo" src="https://github.com/user-attachments/assets/00e23f8f-3aa6-4e49-accd-a87023e3ca8e">
+
 ## Part B: possible future technology
 * Idea
   * Detail
