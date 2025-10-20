@@ -13,8 +13,7 @@ Topic: **Medicinal Chemistry**
   * PolyPharma does not require an internet connection, easily accessible.
   * The app features powerful graphical module able to generate colour-coded heatmaps, and structure overlays for correlating structure regions with activity or inertness.
   * Compatible with iPhone, iPad, and iPod touch and requires iOS 9.2 or later.
-  * [image text](image URL)
-
+   <img alt="PolyPharma App Photo" src="https://github.com/user-attachments/assets/64832c19-1de3-448c-93bc-9bff10f72cc8">  
 ## Part B: possible future technology
 * Idea
   * Detail
