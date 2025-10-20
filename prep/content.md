@@ -22,5 +22,5 @@ Topic: **Medicinal Chemistry**
   * <img alt="ReactionFlash App Photo" src="https://github.com/user-attachments/assets/00e23f8f-3aa6-4e49-accd-a87023e3ca8e">
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Medicinal chemistry in the future can be further driven by tools such as artifical intelligence.
+  * Automations for medicinal chemistry leads to a higher output of discovery, more accurate structure predictions, along with identifying the type of drug easier. These automations in medicinal chemistry provides a decrease in the increments of workload and also is more convinient.
