@@ -19,7 +19,7 @@ Topic: **Medicinal Chemistry**
   * It is an educational app about medicinal chemistry
   * It can be used as a learning tool and a reference.
   * The app is available on Android, iPhone, iPad, and iPod Touch, it requires iOS 8.0 or later.
-  * <img alt="ReactionFlash App Photo" src="https://github.com/user-attachments/assets/00e23f8f-3aa6-4e49-accd-a87023e3ca8e">
+  <img alt="ReactionFlash App Photo" src="https://github.com/user-attachments/assets/00e23f8f-3aa6-4e49-accd-a87023e3ca8e">
 
 ## Part B: possible future technology
 * Medicinal chemistry in the future can be further driven by tools such as artifical intelligence.
