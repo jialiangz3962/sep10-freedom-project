@@ -21,6 +21,6 @@ Topic: **Medicinal Chemistry**
   * The app is available on Android, iPhone, iPad, and iPod Touch, it requires iOS 8.0 or later.
   <img alt="ReactionFlash App Photo" src="https://github.com/user-attachments/assets/00e23f8f-3aa6-4e49-accd-a87023e3ca8e">
 
-## Possible future technology
+## Part B: Possible future technology
 * Medicinal chemistry in the future can be further driven by tools such as artifical intelligence.
   * Automations for medicinal chemistry leads to a higher output of discovery, more accurate structure predictions, along with identifying the type of drug easier. These automations in medicinal chemistry provides a decrease in the increments of workload and also is more convinient.
