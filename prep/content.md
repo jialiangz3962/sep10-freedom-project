@@ -20,6 +20,15 @@ Topic: **Medicinal Chemistry**
   * It can be used as a learning tool and a reference.
   * The app is available on Android, iPhone, iPad, and iPod Touch, it requires iOS 8.0 or later.
   <img alt="ReactionFlash App Photo" src="https://github.com/user-attachments/assets/00e23f8f-3aa6-4e49-accd-a87023e3ca8e">
+## Hardware/devices that are used in Medicinal Chemistry
+* Nuclear Magnetic Resonance (NMR) Spectrometer
+  * The first website I looked into about this tool: [click here to view the website](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/04%3A_Chemical_Speciation/4.07%3A_NMR_Spectroscopy)
+  * The NMR is used to determine and analyze the structure and properties of a molecule.
+  * The reason why it is called nuclear is because it uses strong magnetic fields and radio frequencies.
+  * The data that the NMR receives is transferred onto a computer and processes the data received.
+  * Because the NMR does not use ionizing radiation, environmental research is operated at a point where no harm can be done if mitigations are done correctly.
+  * The overall goals of the NMR is to advance medicinal chemistry through safer methods and to provide chemical information.
+    <img alt="Nuclear Magnetic Resonance Spectrometer" src="https://github.com/user-attachments/assets/45f72e7a-e98f-421f-8405-6a356c68f46b">
 
 ## Part B: Possible future technology
 * Medicinal chemistry in the future can be further driven by tools such as artifical intelligence.
