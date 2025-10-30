@@ -29,7 +29,11 @@ Topic: **Medicinal Chemistry**
   * Because the NMR does not use ionizing radiation, environmental research is operated at a point where no harm can be done if mitigations are done correctly.
   * The overall goals of the NMR is to advance medicinal chemistry through safer methods and to provide chemical information.
     <img alt="Nuclear Magnetic Resonance Spectrometer" src="https://github.com/user-attachments/assets/45f72e7a-e98f-421f-8405-6a356c68f46b">
-
+* Hot plates, heating mantles, water baths, furnaces, and chillers
+  * Used to control temperature reactions
+  * When dealing with flammable liquids, the equipment eliminates the risk of reflux, distillation through the distribution of heat
+  * Water baths are used for chemicals that are sensitive to temperature
+  * Like heating up iron to work with better, materials are also used for the same purpose
 ## Part B: Possible future technology
 * Medicinal chemistry in the future can be further driven by tools such as artifical intelligence.
   * Automations for medicinal chemistry leads to a higher output of discovery, more accurate structure predictions, along with identifying the type of drug easier. These automations in medicinal chemistry provides a decrease in the increments of workload and also is more convinient.
