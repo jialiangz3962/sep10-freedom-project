@@ -7,7 +7,7 @@ Topic: **Medicinal Chemistry**
 
 ## Part A: existing technology
 * 1st google search: "apps of medicinal chemistry"
-* 1st website looked into: "[https://www.linkedin.com/pulse/7-useful-mobile-apps-drug-discovery-professionals-andrii-buvailo](https://www.linkedin.com/pulse/7-useful-mobile-apps-drug-discovery-professionals-andrii-buvailo)"
+* 1st website looked into: [Click here](https://www.linkedin.com/pulse/7-useful-mobile-apps-drug-discovery-professionals-andrii-buvailo)
   * The first app I reviewed was [PolyPharma](https://polypharma-ios.soft112.com/)
   * This app provides a good modeling tool with intuitive visualization layout for drug design practitioners
   * PolyPharma does not require an internet connection, easily accessible.
