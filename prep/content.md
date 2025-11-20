@@ -42,3 +42,13 @@ Topic: **Medicinal Chemistry**
 ## Part B: Possible future technology
  * Medicinal chemistry in the future can be further driven by tools such as artifical intelligence.
    * Automations for medicinal chemistry leads to a higher output of discovery, more accurate structure predictions, along with identifying the type of drug easier. These automations in medicinal chemistry provides a decrease in the increments of workload and also is more convinient.
+  
+   * MEDICINAL CHEMISTRY
+
+### MOLECULAR ANALYZER
+* Analyzes the molecular structure of the chemical.
+* Processes are recorded down along with changes of chemical structure.
+* Flaws of the chemical are pointed out and are needed to be rearranged by the person managing the machine.
+* Versatile to almost all the elements excluding ones with massive radiation.
+* Able to compact itself into a transportable toolbox.
+* Precise using diagnostic measures in order to include precision and speed.
