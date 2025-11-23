@@ -50,5 +50,11 @@ Topic: **Medicinal Chemistry**
 * Processes are recorded down along with changes of chemical structure.
 * Flaws of the chemical are pointed out and are needed to be rearranged by the person managing the machine.
 * Versatile to almost all the elements excluding ones with massive radiation.
-* Able to compact itself into a transportable toolbox.
+* Not easily transportable
 * Precise using diagnostic measures in order to include precision and speed.
+* Weight is going to be about 50-60kg
+* Made with cooling systems, large power supplies, heavy steel
+* The machine would be complicated and analyze structures from NMR, Nuclear Magentic Resonance
+* Would need to be connected to a computer in order for it to work, sending data
+* The machine would be expensive as it is a molecular analyzer with heavy costing materials.
+![](
