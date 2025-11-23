@@ -57,4 +57,5 @@ Topic: **Medicinal Chemistry**
 * The machine would be complicated and analyze structures from NMR, Nuclear Magentic Resonance
 * Would need to be connected to a computer in order for it to work, sending data
 * The machine would be expensive as it is a molecular analyzer with heavy costing materials.
-![](
+![](https://github.com/jialiangz3962/sep10-freedom-project/blob/aba6fcc001f0b448da0a709ed7bf7242783444df/nuclear-magnetic-resonance.jpeg)
+![](https://github.com/jialiangz3962/sep10-freedom-project/blob/aba6fcc001f0b448da0a709ed7bf7242783444df/content-thing.jpeg)
