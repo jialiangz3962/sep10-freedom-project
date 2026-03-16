@@ -15,6 +15,7 @@ Similar to Bootstrap, Bulma is able to make columns and containers.
 ```
 I tried the syntax out on my IDE. Similar to Bootstrap, Bulma works in a container of a 12 grid system, meaning I can add 12 columns that adjusts accordingly to how many columns I place. And in the code, the size adjusts based off `is-three-quarters` `is-two-thirds` `is-half` `is-one-third` `is-one-quarter` `is-full`.
 
+![alt text](tinkering.png)
 
 
 [Previous](entry03.md) | [Next](entry05.md)
