@@ -62,8 +62,13 @@ The thing that I made from bulma using these include a circular skeleton.
 
 
 
-### X/X/XX:
-* Text
+### 4/15/26:
+* Day 1: Make a rough wireframe of my website using Bulma and look more into combinations of code I can do with Bulma to try and make something unique. Also practice on fully understanding properties of basic code such as positioning.
+
+* Day 2: See what the Bulma typography could do to fit into a website. I can use (bulma documentation)[https://bulma.io/documentation/helpers/typography-helpers/] to assist me in this.
+
+* Day 3: Look at other websites that are similar to my topic and try combining some ideas in order to practice using Bulma in my sandbox. I also want to try utilizing the Bulma skeleton to try and make my planning easier.
+
 
 
 <!--
