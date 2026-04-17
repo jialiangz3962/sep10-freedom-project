@@ -69,7 +69,21 @@ The thing that I made from bulma using these include a circular skeleton.
 
 * Day 3: Look at other websites that are similar to my topic and try combining some ideas in order to practice using Bulma in my sandbox. I also want to try utilizing the Bulma skeleton to try and make my planning easier.
 
+### 4/17/26
+I can use Bulma grid system and use the grid system and flexboxes in it to create an organized layout for a website. Bulma also allows for flexbox to be nested into grid.
 
+* Grids use `cell` classes and you can put a `fixed grid` to have a fixed number of columns
+
+* The flexbox in Bulma is similar to Bootstrap, but in Bulma, there are many properties and helpers that come with it. You can wrap the flexbox around something, put it in a direction horizontal or vertical, justify content, align items, align self, align content, and grow or shrink the flexbox.
+
+The typography in Bulma has its own responsive code. The alignment contains code that are classes that could bee assigned to divs. It has mobile, tablet, desktop, widescreen, and FULLHD or above.
+
+#### Bulma Typography
+* `is-capitalized` Transforms the first letter of every word in the class to uppercase
+* `is-lowercase`	Transforms all characters to lowercase
+* `is-uppercase`	Transforms all characters to UPPERCASE
+* `is-italic`	Transforms all characters to italic
+* `is-underlined`	Underlines the text
 
 <!--
 * Links you used today (websites, videos, etc)
