@@ -18,7 +18,7 @@ For context, the tool that I chose for my freedom project is Bulma. The reason w
 I inputted the wireframe my friend and I used for SHABR and used it to demo the Bulma wireframe to myself, and it turned out as I liked it.
 
 ### Skills
-Arguably, the most important skill I have learned in SEP10 (Software Engineering Program) is from what I am blogging about, the ability to learn on my own.
+Arguably, the most important skill I have learned in SEP10 (Software Engineering Program) is from what I am blogging about, the ability to learn on my own. Being able to learn on my own helps me with almost everything in life that I am introduced to. Another skill that I've improved from learning my tool is being able to know where to search for content. I asked AI to give me sources in order for me to learn my tool, in which it came up with bulma documentation and a comprehensive course in a youtube video.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
