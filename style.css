@@ -1,3 +1,90 @@
-@import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
+
+.container {
+    max-width: 100%;
+    padding-bottom: 50px;
+    align-items: center;
+}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+
+/*phone kid*/
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 100px;
+    }
+    h2 {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    .section h1 {
+        font-size: 80px;
+    }
+}
+
+
+/*ipad kid or laptop i think*/
+
+@media (min-width: 992px) {
+    h1 {
+        font-size: 150px;
+    }
+    h2 {
+        font-size: 50px;
+        padding-bottom: 50px;
+    }
+    h3 {
+        font-size: 35px;
+    }
+}
+
+
+/*big boi computer*/
+
+@media (min-width: 1200px) {
+    h1 {
+        font-size: 200px;
+    }
+    h2 {
+        font-size: 40px;
+        padding-bottom: 70px;
+    }
+    h3 {
+        font-size: 45px;
+    }
