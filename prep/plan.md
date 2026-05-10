@@ -26,8 +26,6 @@
 
 * Th 4/30: Complete Part B
 
-* F 5/1: Since website is complete, put the footer at the bottom to avoid copyright
-
 * Weekend: Make sure my website hits all the points sufficiently
 
 ---
