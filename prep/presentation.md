@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will initiate my presentation with the challenges that I faced while making my website. How I would do this is by explaining my challenges of overlapping code while using Bulma and Bootstrap.
 
 ## Product
-* 
+* I will show the audience how my website turned out after a series of trial and error.
 
 ## Process
-* 
+* The result of my wireframes, code snippets of my hero banner and containers I made according to my wireframe that was used in my website.
 
 ## Conclusion
-* 
+* [URL to project] End off with takeaways that I mentioned in my entry 6, approaching hard things and also how to use sources to my advantage.
 
 <!-- EXAMPLE
 
